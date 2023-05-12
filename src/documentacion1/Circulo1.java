@@ -1,7 +1,7 @@
 
 /*
- * Ejercicio de Documentación
- * Circulos - Versión sin información
+ * @author Max Duchel
+ * @version 15/05/2023
  */
 package documentacion1;
 
